@@ -1,0 +1,35 @@
+
+# Student Management Portal - Product Backlog
+
+## Project Goal
+To develop a web application that helps manage
+student details, attendance, and academic records.
+
+## Product Backlog
+
+| ID | User Story | Priority | Story Points | Status |
+|---|---|---|---|---|
+| PB-01 | As a developer, I want to set up the project repository. | High | 2 | Done |
+| PB-02 | As a user, I want to view the home page. | High | 3 | To Do |
+| PB-03 | As an admin, I want to add student details. | High | 5 | To Do |
+| PB-04 | As an admin, I want to view all student records. | High | 3 | To Do |
+| PB-05 | As an admin, I want to edit student details. | High | 3 | To Do |
+| PB-06 | As an admin, I want to delete student records. | Medium | 3 | To Do |
+| PB-07 | As a user, I want to search students by name or ID. | Medium | 3 | To Do |
+| PB-08 | As an admin, I want secure login functionality. | Medium | 5 | To Do |
+| PB-09 | As a faculty member, I want to record attendance. | Medium | 5 | To Do |
+| PB-10 | As an admin, I want to generate student reports. | Low | 5 | To Do |
+| PB-11 | As a developer, I want to test and fix application bugs. | High | 3 | To Do |
+| PB-12 | As a user, I want project documentation. | Medium | 2 | To Do |
+
+## Priority Explanation
+- High: Essential features required first.
+- Medium: Important features for later sprints.
+- Low: Additional features.
+
+## Definition of Done
+- Feature works as expected.
+- Inputs are validated.
+- Testing is completed.
+- Code is committed and pushed to GitHub.
+- Documentation is updated.
